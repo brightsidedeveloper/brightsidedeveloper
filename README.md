@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I will very likely pimp this Readme out when it makes sense to. ATM I am make 3 Big app using tech like React, TypeScript, Vite, React-Native, Supabase, TanStack.
+I will very likely pimp this Readme out when the time is right. At the moment, I am make 3+ Big apps using tech like React, TypeScript, Vite, React-Native, Supabase, TanStack and it's going well.
 https://brightsidedeveloper.com
 <!--
 **brightsidedeveloper/brightsidedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
