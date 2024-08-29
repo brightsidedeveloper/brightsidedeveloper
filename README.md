@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- At the moment, I am coding 3+ Big apps using tech like AI, React, TypeScript, Vite, React-Native, Supabase, Cloudflare, TanStack and it's going well.
+ At the moment, I am coding 3+ Big apps using tech like Open AI, React, TypeScript, Vite, React-Native, Expo, Supabase, Cloudflare, TanStack and we up!
 I will very likely pimp this readme out when the time is right.
 <!--
 **brightsidedeveloper/brightsidedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
