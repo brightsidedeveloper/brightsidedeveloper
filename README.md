@@ -25,7 +25,7 @@ I’m always experimenting with new technologies and pushing the boundaries of w
 
 - **BrightSide Developers:** My tech company where I build innovative apps, tools, and solutions.
 - **Custom AI Tools:** Developing AI-driven assistants using the **OpenAI Assistance API** for code review, documentation, and more.
-- **Real-Time Apps:** Building interactive and engaging real-time applications with **React** and **Jotai**.
+- **Packages and Frameworks:** Designing and developing reusable packages, frameworks, and tools to accelerate development and enhance functionality, including state management solutions, custom hooks, and real-time collaboration features.
 - **Developer Productivity Tools:** Creating custom VS Code extensions and CLI tools to supercharge development workflows.
 
 ## 🎯 My Mission
@@ -61,3 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
