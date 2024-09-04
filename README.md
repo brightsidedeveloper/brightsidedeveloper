@@ -45,11 +45,8 @@ To create a perfect situation where everyone wins. I believe in using my skills 
 
 If you're looking for a developer who can build anything from scratch or improve existing projects, you're in the right place! Feel free to connect with me or check out my repositories to see what I’m working on.
 
-**[Check out my projects](https://github.com/your-profile)** and let's build something amazing together!
+**[Check out my projects](https://github.com/brightsidedeveloper)** and let's build something amazing together!
 
----
-
-Feel free to add more details if you want to emphasize specific projects or experiences!
 <!--
 **brightsidedeveloper/brightsidedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
