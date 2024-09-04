@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tim!
 
-Welcome to my GitHub profile! I'm a passionate and versatile developer with a deep love for **TypeScript** and a wide range of technologies and other languages to achieve anything in my prjects. I thrive on crafting high-quality, performant, and user-friendly applications, from front-end interfaces to full-stack solutions.
+Welcome to my GitHub profile! I'm a passionate and versatile developer with a deep love for **TypeScript** and skills in a wide range of technologies. I thrive on crafting high-quality, performant, and user-friendly applications, from front-end interfaces to full-stack solutions.
 
 ## 🚀 What I Do
 
