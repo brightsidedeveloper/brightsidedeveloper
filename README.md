@@ -1,43 +1,33 @@
----
+👋 Hi, I’m Tim!
+I’m a full-stack developer passionate about Go and crafting scalable, performant applications across all platforms. From sleek UIs to robust backends, I love building tools that empower users and developers alike.
 
-# 👋 Hi, I'm Tim!
+🚀 What I Do
+	•	Go Specialist: Building powerful backends, APIs, and tools with Go.
+	•	TypeScript Enthusiast: Creating type-safe Node.js libraries, React packages, and dynamic UIs.
+	•	Backend Development:
+	•	Designing scalable APIs and database solutions in Go.
+	•	Containerizing and orchestrating with Docker and Kubernetes.
+	•	Managing relational databases like PostgreSQL.
+	•	Custom Tools: Crafting CLI tools, backend services, and developer extensions.
+	•	Frontend Development: Responsive, cross-platform UIs with React, React Native, and Wails.
+	•	AI Integration: Building intelligent tools with OpenAI, Whisper, and 11 Labs.
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a deep love for **TypeScript**. I thrive on crafting high-quality, performant, and user-friendly applications—from sleek front-end interfaces to robust backend solutions.
+💡 What I’m Working On
+	•	BrightSide Developers: Creating innovative apps, tools, and services.
+	•	Custom Backends: Scalable Go-based backends for applications of all sizes.
+	•	Developer Productivity: Building CLI tools, VS Code extensions, and type-safe libraries.
 
-## 🚀 What I Do
+🌐 Technologies
+	•	Languages: Go, TypeScript, SQL, Python
+	•	Frameworks: React, React Native, Wails, Next.js
+	•	Tools: Kubernetes, Docker, Supabase, Cloudflare Workers, AWS, Git
+	•	Databases: PostgreSQL, Supabase
+	•	DevOps: Kubernetes, Docker, CI/CD pipelines
 
-- **TypeScript Enthusiast**: Building complex, reliable applications with type safety.
-- **React & React Native**: Crafting dynamic and responsive UIs for web and mobile.
-- **State Management**: Expert in **Jotai** and **TanStack Query**.
-- **Backend Development**:
-  - Developing robust APIs with **Node.js**, **Python**, and **SQL**.
-  - Deploying scalable apps on **AWS**, **Supabase**, and **Cloudflare Workers**.
-  - Containerizing with **Docker**.
-  - Managing databases like **PostgreSQL**.
-- **API Integration**: Integrating third-party APIs like **OpenAI**, **Whisper**, and **11 Labs**.
-- **Custom Tools**: Creating **VS Code** and **Chrome** extensions to enhance development.
-- **Serverless Architectures**: Leveraging **Cloudflare Workers**, **Supabase Functions**, **AWS Lambda**, and more.
+🎯 My Mission
 
-## 💡 What I’m Working On
+To create high-quality tools and solutions that empower developers and users to achieve their goals seamlessly across platforms.
 
-- **BrightSide Developers**: Building innovative apps, tools, and solutions.
-- **Custom AI Tools**: Developing AI-driven assistants using the **OpenAI API**.
-- **Developer Productivity**: Creating custom VS Code extensions and CLI tools.
+📈 Let’s Connect!
 
-## 🎯 My Mission
-
-To build tools and solutions that empower others to achieve their goals.
-
-## 🌐 Technologies
-
-- **Languages**: TypeScript, JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**: React, React Native, Next.js, Node.js, Express.js
-- **Tools**: Vite, Supabase, Cloudflare Workers, AWS, Docker, Expo, Git, npm, VS Code
-- **Databases**: PostgreSQL, Supabase, Firebase
-- **DevOps**: AWS, Docker, Cloudflare, CI/CD pipelines
-
-## 📈 Let's Connect!
-
-Looking for a developer to bring your project to life or enhance an existing one? **[Check out my projects](https://github.com/brightsidedeveloper)** and let's build something amazing together!
-
----
+Looking for a developer to build custom tools, scalable backends, or innovative apps? Let’s bring your project to life!
