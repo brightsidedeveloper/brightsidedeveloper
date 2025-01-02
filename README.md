@@ -1,6 +1,6 @@
 # 2025 Bright Side Universe
 
-![The Univerese](https://ybpjdhzaqaogrojgsjxh.supabase.co/storage/v1/object/public/gif/ezgif.com-video-to-gif-converter.gif?t=2025-01-02T04%3A01%3A00.688Z)
+![The Univerese](https://ybpjdhzaqaogrojgsjxh.supabase.co/storage/v1/object/public/gif/ezgif.com-optimize.gif)
 
 Laying the Foundations 
 
