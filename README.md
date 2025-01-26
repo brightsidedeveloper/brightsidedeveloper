@@ -4,7 +4,7 @@
 
 Laying the Foundations 
 
-Current projects of 2025 iniative (will cancel plan to serve the USA with DOGE).
+Current projects of 2025 iniative **(will cancel plan to serve the USA with DOGE)**.
 - [BSD Genesis](https://github.com/brightsidedeveloper/bsd-genesis)
 - [BSD Solar System](https://github.com/brightsidedeveloper/bsd-solar-system)
 - [BSD Planet Web](https://github.com/brightsidedeveloper/bsd-planet-web)
