@@ -4,6 +4,9 @@
 
 Laying the Foundations 
 
+Now, building a frontend framework in go (WASM) 
+- [Goat Framework](https://github.com/brightsidedeveloper/goat)
+
 Current projects of 2025 iniative
 - [BSD Genesis](https://github.com/brightsidedeveloper/bsd-genesis)
 - [BSD Solar System](https://github.com/brightsidedeveloper/bsd-solar-system)
